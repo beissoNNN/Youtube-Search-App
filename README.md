@@ -1,6 +1,7 @@
 # Youtube-Search-App
+![alt text](https://puu.sh/HHeCy/74f2de18f6.png)
 
-# Component Structure
+## Component Structure
 
 IMAGEN
 
